@@ -1,0 +1,6 @@
+Name,Departure_Airports,Destination_Locations,Trip_Type,Travel_Start_Date,Travel_End_Date,Time_Preference,Max_Price_USD,Notification_Email
+Kristi and Jeff Wallis,VLD,YVR,One-way,2025-07-18,2025-07-18,No preference,300,"klw226@yahoo.com,fwsass@yahoo.com,renee.rasmussen@yahoo.com"
+Kristi and Jeff Wallis,SAV,YVR,One-way,2025-07-18,2025-07-18,No preference,300,"klw226@yahoo.com,fwsass@yahoo.com,renee.rasmussen@yahoo.com"
+Kristi and Jeff Wallis,SEA,VLD,One-way,2025-07-29,2025-07-29,No preference,300,"klw226@yahoo.com,fwsass@yahoo.com,renee.rasmussen@yahoo.com"
+Kristi and Jeff Wallis,SEA,SAV,One-way,2025-07-29,2025-07-29,No preference,300,"klw226@yahoo.com,fwsass@yahoo.com,renee.rasmussen@yahoo.com"
+"Fred Sass, Renee Rasmussen, Shawn Rasmussen, Jack Rasmussen, Zoe Rasmussen",TPA,YVR,Round-trip,2025-07-18,2025-07-27,No preference,300,"klw226@yahoo.com,fwsass@yahoo.com,renee.rasmussen@yahoo.com"
